@@ -11,6 +11,9 @@
 3. Insights:
   - Analyzing this data revealed valuable insights into the current book market trends in the Netherlands, including popular themes and genres.
 
+## Output
+The output table, which includes every best-selling book `amazon_books.csv`
+
 ## Skills Demonstrated:
 
 1. Web Scraping:
